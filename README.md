@@ -8,7 +8,9 @@ If you are interested in AWS - please! Do reach out! I love to chat 💬 and hel
 
 📫 Contact Me:
 [km@kmoberg.no](mailto:km@kmoberg.no)
+
 [LinkedIn](https://linkedin.com/in/kmoberg)
+
 [Twitter](https://twitter.com/mathiasmoberg)
 
 🔭 I'm currently working on the #100DaysOfCloud project, where I spend time each day learning new things about the cloud. It's super exciting, and you can follow my journey on [Instagram](https://instagram.com/cloudkarl) or here on [GitHub](https://github.com/kmoberg/100-Days-Of-Cloud). I'm working towards building more serverless solutions so that I can help guide companies becoming cloud-native.
