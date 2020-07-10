@@ -1,8 +1,8 @@
 # [![Karl Mathias Moberg Banner](https://github.com/kmoberg/kmoberg/blob/master/icons/Github-Header.png?raw=true)](https://kmoberg.no)
 
 <p align='center'>
-<a href="https://twitter/mathiasmoberg"><img height="30" src="https://github.com/kmoberg/kmoberg/blob/master/icons/twitter.png?raw=true"></a>&nbsp;
-<a href="https://instagram/cloudkarl"><img height="30" src="https://github.com/kmoberg/kmoberg/blob/master/icons/instagram.png?raw=true"></a>&nbsp;
+<a href="https://twitter.com/mathiasmoberg"><img height="30" src="https://github.com/kmoberg/kmoberg/blob/master/icons/twitter.png?raw=true"></a>&nbsp;
+<a href="https://instagram.com/cloudkarl"><img height="30" src="https://github.com/kmoberg/kmoberg/blob/master/icons/instagram.png?raw=true"></a>&nbsp;
 <a href="https://linkedin.com/in/kmoberg"><img height="30" src="https://github.com/kmoberg/kmoberg/blob/master/icons/linkedin.png?raw=true"></a>&nbsp;
 <a href="https://github.com/kmoberg"><img height="30" src="https://github.com/kmoberg/kmoberg/blob/master/icons/github.png?raw=true"></a>&nbsp;
 <a href="mailto:km@kmoberg.no"><img height="30" src="https://github.com/kmoberg/kmoberg/blob/master/icons/email.png?raw=true"></a>&nbsp;
