@@ -12,7 +12,7 @@
 
 ### Hi there 👋, I'm Karl!
 
-I'm a Cloud Architect and Engineer by day and programmer by night. I specialize in AWS, and I *love* to share my knowledge with others, which is why I help organize Meetup Groups such as [Bergen Cloud User Group](https://github.com/bergen-cloud-user-group) and others!
+I'm a Cloud Architect and Engineer by day and programmer by night. I specialize in AWS, and I *love* to share my knowledge with others, which is why I founded and organize Meetup Groups such as [Bergen Cloud User Group](https://github.com/bergen-cloud-user-group) and others!
 
 I have a passion for Open Source, which is why most things I do are released under the MIT license so that anyone can benefit from the work I'm doing. You can find most of my work here on GitHub, or see more of my work at [kmoberg.no](https://kmoberg.no).
 
