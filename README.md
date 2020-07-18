@@ -21,6 +21,9 @@ If you are interested in AWS - please! Do reach out! I love to chat 💬 and hel
 🔭 I'm currently working on the #100DaysOfCloud project, where I spend time each day learning new things about the cloud. It's super exciting, and you can follow my journey on [Instagram](https://instagram.com/cloudkarl) or here on [GitHub](https://github.com/kmoberg/100-Days-Of-Cloud). I'm working towards building more serverless solutions so that I can help guide companies becoming cloud-native.
 
 
+![Karls's github stats](https://github-readme-stats.vercel.app/api?username=kmoberg&show_icons=true)
+
+
 <!--
 **kmoberg/kmoberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
