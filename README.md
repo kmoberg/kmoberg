@@ -12,14 +12,13 @@
 
 ### Hi there 👋, I'm Karl!
 
-I'm a Cloud Architect and Engineer by day and programmer by night. I specialize in AWS, and I *love* to share my knowledge with others, which is why I founded and organize Meetup Groups such as [Bergen Cloud User Group](https://github.com/bergen-cloud-user-group) and others!
+I'm a Developer end Cloud Engineer, specialized in AWS. I *love* to share my knowledge with others, which is why I founded and help organize Meetup Groups such as [Bergen Cloud User Group](https://github.com/bergen-cloud-user-group) and others!
 
 I have a passion for Open Source, which is why most things I do are released under the MIT license so that anyone can benefit from the work I'm doing. You can find most of my work here on GitHub, or see more of my work at [kmoberg.no](https://kmoberg.no).
 
 If you are interested in AWS - please! Do reach out! I love to chat 💬 and help those involved in it, and you're not an exception! 🎉
 
-🔭 I'm currently working on the #100DaysOfCloud project, where I spend time each day learning new things about the cloud. It's super exciting, and you can follow my journey on [Instagram](https://instagram.com/cloudkarl) or here on [GitHub](https://github.com/kmoberg/100-Days-Of-Cloud). I'm working towards building more serverless solutions so that I can help guide companies becoming cloud-native!
-
+⚡ Fun fact: I'm a huge aviation nerd ✈️, and spend a lot of my spare time in the flight-simulation world, contributing to one of the largest flight simulation networks in the world, with over 120,000 active users.
 
 ![Karls's github stats](https://github-readme-stats.vercel.app/api?username=kmoberg&show_icons=true)
 
